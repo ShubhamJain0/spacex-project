@@ -1,0 +1,25 @@
+.App {
+  padding: 100px;
+  padding-top: 50px;
+}
+
+#heading{
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.launch-div{
+  margin-top: 75px;
+}
+
+.link{
+  cursor: pointer;
+  color: blue;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .App {
+    padding: 25px;
+  }
+}
